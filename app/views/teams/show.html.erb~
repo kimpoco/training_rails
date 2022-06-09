@@ -1,0 +1,4 @@
+<h1><%= @team.name %></h1>
+
+<p><%= @team.manager %></p>
+<p><%= @team.home %></p>
